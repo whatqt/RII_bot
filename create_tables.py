@@ -1,4 +1,4 @@
-from postgresql.tables import engine, Base
+from src.postgresql.tables import engine, Base
 import asyncio
 
 

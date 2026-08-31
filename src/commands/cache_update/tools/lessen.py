@@ -36,7 +36,7 @@ def generator_schedule():
         32: "schedule_1005", 33: "schedule_1006", 34: "schedule_1007",
     }
 
-    my_shedule = range(1, 44)
+    my_shedule = range(1, 35)
 
     for i in my_shedule:
         yield ranges[i]
